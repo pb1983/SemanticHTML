@@ -17,3 +17,5 @@ This code refines the existing html and css files with the follwing adjustments:
 See below link and screenshot of the final version of the website.
 
 [Horiseon Marketing Agency](https://pb1983.github.io/SemanticHTML/)
+
+![screencapture-127-0-0-1-5501-index-html-2023-07-20-15_46_31](https://github.com/pb1983/SemanticHTML/assets/25019626/77b7d267-8454-46c5-ae56-f4831319e6b0)
