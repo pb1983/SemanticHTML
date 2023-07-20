@@ -8,7 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Changed header from a class to a semantic element*/
+/* Changed 'header' from a class to a semantic element*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,18 +17,17 @@ header {
     color: #ffffff;
 }
 
-/* Changed header from a class to a semantic element*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Changed header from a class to a semantic element*/
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Changed header from a class to a semantic element. Added a nav element in html to replace existing divs*/
+/* Changed 'header' from a class to a semantic element. Added a nav element in html to replace existing divs*/
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,19 +36,17 @@ header nav {
     font-size: 20px;
 }
 
-
-/* Changed header from a class to a semantic element. Added a nav element in html to replace existing divs*/
 header nav ul {
     list-style-type: none;
 }
 
-/* Changed header from a class to a semantic element. Added a nav element in html to replace existing divs*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 /* Changed 'content' from a class to a 'main' semantic element.*/
+
 main {
     width: 75%;
     display: inline-block;
@@ -109,7 +107,7 @@ aside {
     margin-left: 25px;
 }
 
-/* Consolidated search-engine-optimization,  'online-reputation-management', and social-media-marketing classes into 'section-1' class */
+/* Consolidated 'search-engine-optimization',  'online-reputation-management', and 'social-media-marketing' classes into 'section-1' class */
 
 .section-1 {
     margin-bottom: 20px;
@@ -130,8 +128,7 @@ aside {
     font-size: 36px;
 }
 
-/* Consolidated benefit-lead, benefit-brand, and benefit-cost classes into 'section-2' class */
-
+/* Consolidated 'benefit-lead', 'benefit-brand', and 'benefit-cost' classes into 'section-2' class */
 
 .section-2 {
     margin-bottom: 32px;
